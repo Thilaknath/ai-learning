@@ -107,7 +107,7 @@ def synthesize_analysis_node(state: AgentState):
 # --- 3. Build the Graph with Conditional Logic ---
 graph_builder = StateGraph(AgentState)
 graph_builder.add_node("identify_error", identify_error_node)
-graph_builder.add_node("search", mock_search_node)
+graph_builder.add_node("search", search_node)
 graph_builder.add_node("reflect", reflection_node)
 graph_builder.add_node("synthesize", synthesize_analysis_node)
 

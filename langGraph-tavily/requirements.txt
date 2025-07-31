@@ -1,0 +1,17 @@
+# Core AI Frameworks
+langchain
+langgraph
+langchain_openai
+
+# Tool for Web Search
+tavily-python
+
+# For environment variables
+python-dotenv
+
+# LangChain Community Tools (needed for TavilySearchResults import)
+langchain_community
+
+# SAP AI Core
+generative-ai-hub-sdk
+sap-ai-sdk-gen[all]
