@@ -1,0 +1,25 @@
+# Core AI Frameworks
+langchain
+langgraph
+langchain_openai
+
+# Tool for Web Search
+tavily-python
+
+# For environment variables
+python-dotenv
+
+# LangChain Community Tools (needed for TavilySearchResults import)
+langchain_community
+
+# Financial Data and Analysis
+yfinance
+pandas
+numpy
+
+# HTTP Requests
+requests
+
+# Data Processing and Analysis
+matplotlib
+seaborn

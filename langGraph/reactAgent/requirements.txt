@@ -12,6 +12,3 @@ python-dotenv
 # LangChain Community Tools (needed for TavilySearchResults import)
 langchain_community
 
-# SAP AI Core
-generative-ai-hub-sdk
-sap-ai-sdk-gen[all]
